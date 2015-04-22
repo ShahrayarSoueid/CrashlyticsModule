@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
+version: 0.2
 apiversion: 1
 description: Crashlytics API export
 author: Shopmium
@@ -15,4 +15,4 @@ name: crashlytics
 moduleid: crashlytics
 guid: dba04d09-0cfe-4af8-a0bc-da6e0ff52873
 platform: iphone
-minsdk: 3.2.1.S1
+minsdk: 3.5.1.S1
